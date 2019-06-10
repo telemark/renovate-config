@@ -6,7 +6,7 @@
     "Sherex"
   ],
   "vulnerabilityAlerts": {
-    "enabled": true
+    "enabled": true,
     "labels": ["security"]
   }
 }
