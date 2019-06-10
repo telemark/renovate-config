@@ -1,12 +1,10 @@
 {
-  "enabled": false,
   "schedule": "before 5am",
   "assignees": [
     "maccyber",
     "Sherex"
   ],
   "vulnerabilityAlerts": {
-    "enabled": true,
     "labels": ["security"]
   }
 }
