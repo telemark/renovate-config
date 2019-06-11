@@ -4,7 +4,17 @@
     "maccyber",
     "Sherex"
   ],
+  "major": {
+    "enabled": false
+  },
+  "minor": {
+    "enabled": false
+  },
+  "patch": {
+    "enabled": false
+  },
   "vulnerabilityAlerts": {
+    "enabled": true,
     "labels": ["security"]
   }
 }
