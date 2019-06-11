@@ -1,9 +1,6 @@
 {
   "schedule": "before 5am",
-  "assignees": [
-    "maccyber",
-    "Sherex"
-  ],
+  "assignees": ["maccyber", "Sherex"],
   "major": {
     "enabled": false
   },
@@ -14,7 +11,15 @@
     "enabled": false
   },
   "vulnerabilityAlerts": {
-    "enabled": true,
-    "labels": ["security"]
+    "labels": ["security"],
+    "major": {
+      "enabled": true
+    },
+    "minor": {
+      "enabled": true
+    },
+    "patch": {
+      "enabled": true
+    }
   }
 }
